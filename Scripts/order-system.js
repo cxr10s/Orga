@@ -7,7 +7,7 @@ const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBh
 // =============================================
 // CONFIGURACIÓN WOMPI
 //
-// SANDBOX (activo ahora — solo para pruebas):
+
 //   Checkout: https://checkout.wompi.co/p/
 //   Llave pública: pub_test_...
 //   Llave integridad: test_integrity_...
