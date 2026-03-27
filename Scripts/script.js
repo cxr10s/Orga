@@ -807,7 +807,6 @@ window.addEventListener('DOMContentLoaded', function() {
         // Solo verificar regalo si NO hay ya uno en el carrito guardado
         const yaHayRegalo = cart.some(item => item.isGift === true);
         if (!yaHayRegalo) {
-            checkGiftEligibility();
-        }
+            
     }
 });
