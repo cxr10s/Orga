@@ -58,7 +58,7 @@ async function guardarPedidoEnSupabase(pedido) {
 async function redirigirAWompi(pedido) {
     const totalCentavos = Math.round(pedido.total * 100);
     const referencia    = pedido.id;
-    const urlRetorno    = 'https://cxr10s.github.io/tienda/Scripts/pago-resultado.html';
+    const urlRetorno    = 'https://cxr10s.github.io/Orga/Scripts/pago-resultado.html';
 
     // Generar firma de integridad SHA-256
     // Cadena: referencia + monto + moneda + secret
