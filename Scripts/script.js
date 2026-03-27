@@ -745,8 +745,8 @@ function closeAllModals() {
 // COMPARTIR LA PÁGINA
 // =============================================
 function shareVia(platform) {
-    const imgUrl = 'https://cxr10s.github.io/tienda/Scripts/Img.png'; // Imagen representativa para compartir
-    const url   = 'https://cxr10s.github.io/tienda/';
+    const imgUrl = 'https://cxr10s.github.io/Orga/Icono/Img.png'; // Imagen representativa para compartir
+    const url   = 'https://cxr10s.github.io/Orga/Scripts/';
     const title = 'Tienda Deportiva';
     const text  = 'Mira esta tienda deportiva: Camisetas, Tenis, Jeans, Cascos y más. Envío gratis desde $150.000 COP.';
 
